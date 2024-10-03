@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obrempong Kwabena Osei-Wusu</h1>
-<h3 align="center">A Tech Enthusiast from Ghana.</h3>
+<h3 align="center">A Tech Enthusiast from Ghana.LinkedIN: http://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obrempong-1&label=Profile%20views&color=0e75b6&style=flat" alt="obrempong-1" /> </p>
 
