@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Obrempong.kow@gmail.com**
 
-- ⚡ Fun fact **Might be a black Bill Gate..**
+- ⚡ Fun fact **I learnt React before HTML..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
