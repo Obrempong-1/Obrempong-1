@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kwabena_waakye" target="blank"><img src="https://img.shields.io/twitter/follow/kwabena_waakye?logo=twitter&style=for-the-badge" alt="kwabena_waakye" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently learning **Physics and Maths**
 
-- 💬 Ask me about **Python,Js**
+- 💬 Ask me about **Logic**
 
 - 📫 How to reach me **Obrempong.kow@gmail.com**
 
-- ⚡ Fun fact **I learnt React before HTML..**
+- ⚡ Fun fact **Nothing is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
