@@ -44,6 +44,64 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=obrempong-1&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrempong-1&layout=compact&theme=tokyonight&cache_seconds=1800"
+  />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=obrempong-1&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=obrempong-1&theme=algolia&no-frame=true&margin-w=10"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=obrempong-1&theme=tokyo-night"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/obrempong-1/obrempong-1/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
+</p>
+
+---
 
 ## 🛠️ Languages and Tools
 
