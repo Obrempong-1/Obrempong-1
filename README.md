@@ -25,7 +25,7 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 - 🎓 Geomatic Engineering Student at **KNUST**
 - 🌱 Currently learning **Backend Engineering, AI Systems, Physics & Maths**
 - 🚀 Passionate about **System Design, AI Products, and Scalable Architectures**
-- 💬 Ask me about **Logic, Next.js, Supabase, Backend Systems, and Databases**
+- 💬 Ask me about **Next.js, Supabase, Backend Systems, AI, and Databases**
 - 📫 Reach me at **Obrempong.kow@gmail.com**
 - ⚡ Fun fact: **Nothing is fun until you understand how it works**
 
@@ -35,70 +35,12 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 
 <p align="left">
   <a href="https://twitter.com/kwabena_waakye" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
 
   <a href="https://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=obrempong-1&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrempong-1&layout=compact&theme=tokyonight&cache_seconds=1800"
-  />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=obrempong-1&theme=tokyonight"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=obrempong-1&theme=algolia&no-frame=true&margin-w=10"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=obrempong-1&theme=tokyo-night"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/obrempong-1/obrempong-1/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
-  />
 </p>
 
 ---
@@ -106,7 +48,67 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mysql,postgres,tailwind,git,github" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</a>
+
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+<p>
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express • Python • MySQL • PostgreSQL • TailwindCSS • Git • GitHub 
 </p>
 
 ---
@@ -114,8 +116,8 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 ## 🚀 Current Focus
 
 ```txt
-Building real-world systems
+Building scalable systems
 Learning backend architecture deeply
-Understanding scalable databases
 Exploring AI-powered applications
+Understanding databases and infrastructure
 Growing into a world-class engineer
