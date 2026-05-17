@@ -1,29 +1,86 @@
 <h1 align="center">Hi 👋, I'm Obrempong Kwabena Osei-Wusu</h1>
-<h3 align="center">A Tech Enthusiast from Ghana. LinkedIN: http://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obrempong-1&label=Profile%20views&color=0e75b6&style=flat" alt="obrempong-1" /> </p>
+<h3 align="center">
+  Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬🇭
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obrempong-1" alt="obrempong-1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kwabena_waakye" target="blank"><img src="https://img.shields.io/twitter/follow/kwabena_waakye?logo=twitter&style=for-the-badge" alt="kwabena_waakye" /></a> </p>
-
-- 🌱 I’m currently learning **Physics and Maths**
-
-- 💬 Ask me about **Logic**
-
-- 📫 How to reach me **Obrempong.kow@gmail.com**
-
-- ⚡ Fun fact **Nothing is fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kwabena_waakye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kwabena_waakye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obrempong-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/kwabena_waakye" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kwabena_waakye?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obrempong-1&show_icons=true&locale=en&layout=compact" alt="obrempong-1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obrempong-1&show_icons=true&locale=en" alt="obrempong-1" /></p>
+### 👨‍💻 About Me
+
+- 🌍 I’m from **Ghana**
+- 🎓 I study **Geomatic Engineering at KNUST**
+- 🚀 I’m building skills in **Web Development, Backend Engineering, AI, and System Architecture**
+- 🌱 Currently learning **Backend Architecture, Physics, Maths, and AI Product Development**
+- 💬 Ask me about **Logic, Web Development, Supabase, Next.js, and System Design**
+- 📫 Reach me at **Obrempong.kow@gmail.com**
+- ⚡ Fun fact: **Nothing is fun until you understand how it works**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/kwabena_waakye" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mysql,postgres,supabase,tailwind,git" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obrempong-1&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obrempong-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obrempong-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obrempong-1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Current Focus
+
+```txt
+Building real-world systems.
+Learning backend architecture.
+Understanding databases deeply.
+Exploring AI-powered products.
+Growing into a cracked software engineer.
