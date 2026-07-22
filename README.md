@@ -25,9 +25,9 @@ Tech Enthusiast | Software Developer | Geomatic Engineering Student | Ghana 🇬
 - 🎓 Geomatic Engineering Student at **KNUST**
 - 🌱 Currently learning **Backend Engineering, AI Systems, Physics & Maths**
 - 🚀 Passionate about **System Design, AI Products, and Scalable Architectures**
-- 💬 Ask me about **Next.js, Supabase, Backend Systems, AI, and Databases**
+- 💬 Ask me about **Next.js, Backend Systems, AI, and Databases**
 - 📫 Reach me at **Obrempong.kow@gmail.com**
-- ⚡ Fun fact: **Nothing is fun until you understand how it works**
+- ⚡ Fun fact: **Think Until Your Brain Hurts**
 
 ---
 
